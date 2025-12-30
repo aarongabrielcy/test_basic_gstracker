@@ -1,4 +1,4 @@
-# COMANDOS A ENVIAR PARA TESTEO DE CADA COMPONENTE:
+<h1 align="center">COMANDOS A ENVIAR PARA TESTEO DE CADA COMPONENTE:</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GsTrackMe-s?style=for-the-badge&color=purple" alt="GsTrackMe"/>
