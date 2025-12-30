@@ -1,8 +1,7 @@
 # COMANDOS A ENVIAR PARA TESTEO DE CADA COMPONENTE:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GsTrackMe-s
-  " alt="GsTrackMe"/>
+  <img src="https://img.shields.io/badge/GsTrackMe-s?style=for-the-badge" alt="GsTrackMe"/>
 </p>
 
 ## YA PROBADOS - FUNCIONAN
