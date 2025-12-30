@@ -1,4 +1,9 @@
 # COMANDOS A ENVIAR PARA TESTEO DE CADA COMPONENTE:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GsTrackMe" alt="GsTrackMe"/>
+</p>
+
 ## YA PROBADOS - FUNCIONAN
 *  ADC DE BATERIA EXTERNA 
 ```bash
